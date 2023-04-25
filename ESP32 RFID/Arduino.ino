@@ -2,6 +2,10 @@
 // Feel free to use it if you subscribed to this channel: https://www.youtube.com/channel/UCWE70GK4SaYz1dxMMN0TzkQ
 // The tutorial video is available here https://youtu.be/xeHBKi0GLow
 
+//Tested with Arduino IDE 2.1.0
+//Arduino core for the ESP32 2.0.7
+
+
 //You need to install these libraries
 
 //https://github.com/miguelbalboa/rfid
